@@ -12,5 +12,12 @@
 			
 		}
 	}
+	if (atribuir($num)) {
+		echo "O numero é par.";
+	}
+	else
+	{
+		echo "O numero é impar.";
+	}
 
 ?>
